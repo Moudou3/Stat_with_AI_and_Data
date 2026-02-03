@@ -40,10 +40,13 @@ TECHNOLOGIES UTILISÉES
 INSTALLATION ET EXÉCUTION
 
   1- Télécharger ou cloner le projet
+
   2- Installer les bibliothèques nécessaires :
-  3- pip install pandas numpy matplotlib seaborn
-  Lancer Jupyter Notebook :
+  pip install pandas numpy matplotlib seaborn
+
+  3- Lancer Jupyter Notebook :
   jupyter notebook
+
   4- Ouvrir le fichier genai.ipynb
 
 OBJECTIFS PÉDAGOGIQUES
