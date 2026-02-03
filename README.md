@@ -59,7 +59,8 @@ OBJECTIFS PÉDAGOGIQUES
  
 AUTEUR
 
-  Mamoudou Sidibe
+  Mamoudou SIDIBE
+
   Étudiant en Data Science et Informatique
   
 LICENCE
