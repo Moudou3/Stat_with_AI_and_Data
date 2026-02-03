@@ -37,7 +37,7 @@ TECHNOLOGIES UTILISÉES
     - matplotlib
     - seaborn
   
-  INSTALLATION ET EXÉCUTION
+INSTALLATION ET EXÉCUTION
 
   1- Télécharger ou cloner le projet
   2- Installer les bibliothèques nécessaires :
@@ -46,7 +46,7 @@ TECHNOLOGIES UTILISÉES
   jupyter notebook
   4- Ouvrir le fichier genai.ipynb
 
-  OBJECTIFS PÉDAGOGIQUES
+OBJECTIFS PÉDAGOGIQUES
 
   - Comprendre les bases de la statistique descriptive
   - Identifier et classifier les types de variables
